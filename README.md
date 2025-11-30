@@ -73,7 +73,7 @@ Cyberpunk mindset → build fast, learn fast, adapt faster.
 
 ## 📬 Contact
 
-📩 Email: **[add your email]**
-🆔 GitHub: **sirnj-ai**
+* 📩 Discord: **(✷‿✷)GOD OF WAR**
+* 🆔 GitHub: **sirnj-ai**
 
 <p align="center"><b>⚡ Cyberpunk glow. Neon precision. Infinite progress. ⚡</b></p>
