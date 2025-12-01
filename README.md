@@ -34,6 +34,17 @@ Cyberpunk mindset → build fast, learn fast, adapt faster.
 * Adapts to new tech instantly
 
 ---
+### **⚡ WHAT I DO**
+
+* 🛠 Neon-fast Python tools, GUIs, CLIs
+* 🤖 AI-powered scripts & API integrations
+* 🔌 Python ↔ Arduino automation
+* 📦 Web scraping & workflow automation
+* 🧹 Debugging + cleaning messy code
+* 🚀 Rapid MVP building
+* 💸 Freelance tasks 
+
+---
 
 ## 🌐 API Work
 
